@@ -1,0 +1,248 @@
+small {
+    color: black;
+    font-size: 23px;
+    font-weight: 500;
+    margin-left: 4px;
+}
+
+.brand-link .brand-image {
+    float: left;
+    line-height: .8;
+    margin-left: 0rem;
+    margin-right: .5rem;
+    margin-top: -3px;
+    max-height: 33px;
+    width: auto;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+
+}
+
+.dropdown-menu-lg {
+    max-width: 271px;
+    min-width: 174px;
+    padding: 0;
+}
+
+.layout-fixed .main-sidebar {
+    bottom: 0;
+    float: none;
+    height: 100vh;
+    left: 4px;
+    position: fixed;
+    top: 2px;
+}
+
+.dashLeft {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 28px;
+    padding: 2vw 2vw;
+    height: 96%;
+}
+
+.dashRight {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 28px;
+    padding: 2vw 2vw;
+    height: 96%;
+}
+
+.username {
+    width: 45%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid #ffc700;
+    border-radius: 12px;
+    align-items: center;
+    text-align: center;
+    height: 11%;
+}
+
+.username h2 {
+    font-family: "Poppins";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 40px;
+    margin-top: 6px;
+}
+.weltobiz {
+    width: 73%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid #ffc700;
+    border-radius: 12px;
+    align-items: center;
+    text-align: center;
+    height: 11%;
+}
+.weltobiz h2{
+    font-family: "Poppins";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 40px;
+    margin-top: 6px;
+}
+.dashLeft small{
+    font-family: "Poppins";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 40px;
+    margin-top: 6px;
+}
+.alltiome span{
+    color: #ffc700;
+    font-family: "Poppins";
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.userimg img {
+    display: flex;
+    width: 78%;
+    margin: auto;
+}
+.headigEarn{
+    color: #121212;
+    font-family: "Poppins";
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.cardbg{
+    background-color: #5F36FF;
+    color: white;
+    padding: 0.6vw 0vw;
+}
+.cardbg img {
+    width: 27px;
+    height: 27px;
+    margin: auto;
+    margin-bottom: 7px;
+}
+.cardText p {
+    font-family: "Poppins";
+    font-size: 11px;
+    font-weight: 300;
+    line-height: 15px;
+    color: #ffff;
+    text-align: center;
+}
+.cardText h2 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 40px;
+    font-family: "Poppins";
+}
+.dashRight h2 {
+    font-family: "Poppins";
+    font-size: 19.21px;
+    font-weight: 700;
+    line-height: 12.41px;
+    color: #121212;
+}
+.totalrecent {
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    justify-content: start;
+    gap: 21px;
+    background: #F4F4F4;
+    padding: 1vw 2vw;
+    border-radius: 20px;
+    width: 90%;
+    height: 10vh;
+}
+.totalrecent img {
+    width: 35px;
+    height: 35px;
+}
+.totalrecent p{
+    font-family: "Poppins";
+    font-size: 11px;
+    font-weight: 300;
+    line-height: 15px;
+    color: #121212;
+}
+.totalrecent h3 {
+    font-family: "Poppins";
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #121212;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex: auto;
+}
+
+@media(max-width: 575px), only screen and (min-width: 576px)
+ and (max-width: 767px), only screen and (min-width: 768px)
+  and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+    .mobilFlex{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .userimg img {
+        display: flex;
+        width: 49%;
+        margin: auto;
+    }
+    .username {
+        width: 38%;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+        display: flex;
+        justify-content: center;
+        border: 2px solid #ffc700;
+        border-radius: 12px;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+        height: 5vh;
+        margin-top: -10%;
+    }
+    .dashLeft small {
+        font-family: "Poppins";
+        font-size: 15px;
+        font-weight: 300;
+        line-height: 40px;
+        margin-top: -10px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .alltiome{
+        text-align: center;
+        margin-top: -1px;
+    }
+    .headigEarn {
+        color: #121212;
+        font-family: "Poppins";
+        font-size: 13px;
+        font-weight: 700;
+        line-height: 40px;
+    }
+    .cardbg {
+        background-color: #5F36FF;
+        color: white;
+        padding: 3vw 0vw;
+    }
+    .dashLeft {
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+        border-radius: 28px;
+        padding: 2vw 2vw;
+        height: 99%;
+    }
+    .dashRight {
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+        border-radius: 28px;
+        padding: 6vw 2.5vw;
+        height: 96%;
+    }
+  }

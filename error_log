@@ -1,0 +1,30 @@
+[06-May-2024 09:59:33 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for localhost
+ failed: Name or service not known in /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/db.php on line 3
+[06-May-2024 09:59:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for localhost
+ failed: Name or service not known in /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/db.php:3
+Stack trace:
+#0 /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/db.php(3): mysqli_connect('localhost\r\n', 'naturalherbalca...', 'C@576805om', 'naturalherbalca...')
+#1 /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/header.php(1): include('/home/naturalhe...')
+#2 /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/index.php(1): include('/home/naturalhe...')
+#3 {main}
+  thrown in /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/db.php on line 3
+[06-May-2024 09:59:54 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for localhost
+ failed: Name or service not known in /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/db.php on line 3
+[06-May-2024 09:59:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for localhost
+ failed: Name or service not known in /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/db.php:3
+Stack trace:
+#0 /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/db.php(3): mysqli_connect('localhost\r\n', 'naturalherbalca...', 'C@576805om', 'naturalherbalca...')
+#1 /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/header.php(1): include('/home/naturalhe...')
+#2 /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/index.php(1): include('/home/naturalhe...')
+#3 {main}
+  thrown in /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/db.php on line 3
+[06-May-2024 09:59:56 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for localhost
+ failed: Name or service not known in /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/db.php on line 3
+[06-May-2024 09:59:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for localhost
+ failed: Name or service not known in /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/db.php:3
+Stack trace:
+#0 /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/db.php(3): mysqli_connect('localhost\r\n', 'naturalherbalca...', 'C@576805om', 'naturalherbalca...')
+#1 /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/header.php(1): include('/home/naturalhe...')
+#2 /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/index.php(1): include('/home/naturalhe...')
+#3 {main}
+  thrown in /home/naturalherbalcar/public_html/bizmillion.naturalherbalcare.in/includes/db.php on line 3
