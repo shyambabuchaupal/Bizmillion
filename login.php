@@ -42,20 +42,6 @@
 </div>
 
 
-<!--<div class="loginSection">-->
-<!--    <div class="col-12">-->
-<!--        <div class="loginmig position-relative">-->
-<!--            <img src="images/loginbg.png" alt="img" class=' d-none d-md-block w-100'>-->
-<!--            <img src="images/loginmob.png" alt="img" class=' d-block d-md-none w-100'>-->
-<!--            <div class="login_left11 position-absolute top-0 atart-100">-->
-<!--             <img src="images/loginimg.png" alt="img" class='w-50'>-->
-<!--            </div>-->
-<!--        </div>-->
-
-
-<!--    </div>-->
-<!--</div>-->
-
 <!-- login page end  -->
 
 <?php include 'includes/footer.php' ?>

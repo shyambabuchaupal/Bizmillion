@@ -70,7 +70,7 @@
                                     class="bi bi-currency-rupee"></i><?=$packRow['price']?></span>
                             <del><i class="bi bi-currency-rupee"></i><?=$packRow['disprice']?></del>
                         </p>
-                        <a class='me-2' href="" style='color:#0057FF;'>View More</a>
+                        <a class='me-2' href="bundleDetail.php" style='color:#0057FF;'>View More</a>
                     </div>
                 </div>
             </div>

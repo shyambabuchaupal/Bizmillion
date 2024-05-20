@@ -20,12 +20,14 @@ a {
     margin-left: -174px;
     margin-top: -5px;
 }
-.imgCourse{
-    margin-left:21px;
+
+.imgCourse {
+    margin-left: 21px;
 }
-.foo-btm{
-        font-size:15px;
-    }
+
+.foo-btm {
+    font-size: 15px;
+}
 
 
 /*about css */
@@ -40,21 +42,25 @@ a {
     padding: 4vw 0vw;
     top: 5%;
 }
+
 .text_about h2 {
     font-family: Exo2;
     font-weight: 600;
     font-size: 6vw;
     line-height: 5vw;
 }
+
 .text_about h2 span {
     margin-left: 5rem;
 }
-.about_heading h2{
-     font-family: Exo2;
+
+.about_heading h2 {
+    font-family: Exo2;
     font-weight: 600;
     font-size: 4vw;
     line-height: 5vw;
 }
+
 .about_heading p {
     font-family: Exo2;
     font-weight: 400;
@@ -64,22 +70,26 @@ a {
 
 
 /*enroll css start */
-.enroll_img img{
+.enroll_img img {
     width: 100%;
-    margin: auto;   
+    margin: auto;
 }
+
 .enroll_form {
     top: 4%;
     width: 43%;
     padding: 1vw 2vw;
     left: 0%;
 }
+
 .gfgt {
     border-radius: 26px;
 }
+
 .enroll_form label {
     font-size: 13px;
 }
+
 .hgtrrt {
     padding: 5px 33px;
     margin-top: 20px;
@@ -91,6 +101,7 @@ a {
     position: relative;
 
 }
+
 .mainimglogin img {
     width: 77%;
     margin: auto;
@@ -623,6 +634,7 @@ a {
     padding: 2vw 0vw;
     text-align: center;
 }
+
 .text_note {
     font-size: 14px;
     margin-left: -146px;
@@ -848,30 +860,128 @@ a {
     width: 36%;
 }
 
+.bundle_text h2 {
+    font-family: "Exo 2";
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 68.72px;
+    color: #000000;
+
+}
+
+.bundle_text ul i {
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 68.72px;
+    color: #5B5B5B;
+}
+
+.mainSection {
+    padding: 4vw 0 0 0;
+    width: 100%;
+}
+
+.course_text h2 {
+    font-size: 52.95px;
+    font-weight: 500;
+    font-family: "Exo 2";
+    line-height: 60.64px;
+}
+
+.courseDesc {
+    top: 17%;
+    left: 7%;
+    width: 80%;
+}
+
+.courseDesc p {
+    font-size: 11.65px;
+    line-height: 19.5px;
+    font-family: "Poppins";
+    font-weight: 400;
+    color: #000000;
+}
+
+.courseDesc h2 {
+    font-size: 22.3px;
+    font-weight: 500;
+    font-family: "Exo 2";
+    line-height: 46.64px;
+    color: #5B5B5B;
+}
+
+.courseDuration {
+    border-radius: 16px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 2px solid #FFC700;
+    width: 40%;
+    padding: 1vw 1vw;
+    height: 11vh;
+}
+
+.courseRightImg img {
+    width: 100%;
+}
+.btn_enroll {
+    margin-top: 24px;
+}
 
 
-
-@media(max-width: 575px), only screen and (min-width: 576px)
- and (max-width: 767px), only screen and (min-width: 768px)
-  and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media(max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
     .header_p {
         padding: 0 12px;
     }
+    .btn_enroll {
+        margin-top: 24px;
+    }
+    .course_text h2 {
+        font-size: 44.95px;
+        font-weight: 500;
+        font-family: "Exo 2";
+        line-height: 51.64px;
+    }
+    
+
+    .courseRightImg {
+        margin-top: 87px;
+    }
+
+    .courseDuration {
+        border-radius: 16px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        border: 2px solid #FFC700;
+        width: 65%;
+        padding: 4vw 6vw;
+        height: 11vh;
+    }
+
+    .bundle_text h2 {
+        font-family: "Exo 2";
+        font-weight: 600;
+        font-size: 43px;
+        line-height: 47.72px;
+        color: #000000;
+    }
+
     .tytytytyt {
-    padding: 13vw 0vw;
-    text-align: center;
-}
+        padding: 13vw 0vw;
+        text-align: center;
+    }
+
     /*enroll css start */
     .enroll_form {
-    top: 26%;
-    width: 100%;
-    padding: 1vw 4vw;
-    left: 0%;
-}
-.hgtrrt {
-    padding: 5px 36px;
-    margin-top: 20px;
-}
+        top: 26%;
+        width: 100%;
+        padding: 1vw 4vw;
+        left: 0%;
+    }
+
+    .hgtrrt {
+        padding: 5px 36px;
+        margin-top: 20px;
+    }
+
     .login_left121 {
         top: 32%;
         width: 100%;
@@ -1257,8 +1367,9 @@ a {
         padding: 11px 11px;
         /* height: 590px; */
     }
-    .foo-btm{
-        font-size:13px;
+
+    .foo-btm {
+        font-size: 13px;
     }
 
     .left-text1 p {
@@ -1304,16 +1415,18 @@ a {
         left: 1132px;
         top: 102px;
     }
+
     .mainimglogin img {
-    width: 80%;
-    margin: auto;
-}
-.login_left121 {
-    top: 0%;
-    padding: 2% 1.3%;
-    left: 10%;
-    width: 37%;
-}
+        width: 80%;
+        margin: auto;
+    }
+
+    .login_left121 {
+        top: 0%;
+        padding: 2% 1.3%;
+        left: 10%;
+        width: 37%;
+    }
 
     .firstimg img {
         width: 88%;
@@ -1344,21 +1457,21 @@ a {
     }
 
     .left-text {
-    width: 930px;
-    height: 338px;
-    position: absolute;
-    /* margin-top: 44px; */
-    top: 5%;
-    left: 70px;
-}
+        width: 930px;
+        height: 338px;
+        position: absolute;
+        /* margin-top: 44px; */
+        top: 5%;
+        left: 70px;
+    }
 
-   .left-text1 {
-    width: 509px;
-    height: 120px;
-    position: absolute;
-    top: 272px;
-    left: 75px;
-}
+    .left-text1 {
+        width: 509px;
+        height: 120px;
+        position: absolute;
+        top: 272px;
+        left: 75px;
+    }
 
     .left-btn {
         width: 275px;
@@ -1376,12 +1489,12 @@ a {
     }
 
     .textmain {
-    width: 90%;
-    position: absolute;
-    left: 0%;
-    /* overflow: hidden; */
-    top: 0%;
-}
+        width: 90%;
+        position: absolute;
+        left: 0%;
+        /* overflow: hidden; */
+        top: 0%;
+    }
 
     .textmain ul .first_li {
         font-family: "Exo 2";
@@ -1391,12 +1504,12 @@ a {
         color: #000000;
     }
 
-   .left-btn1 {
-    width: 41%;
-    position: absolute;
-    top: 106%;
-    left: 0%;
-}
+    .left-btn1 {
+        width: 41%;
+        position: absolute;
+        top: 106%;
+        left: 0%;
+    }
 
     .online_text h6 {
         font-family: "Exo 2";
@@ -1437,11 +1550,11 @@ a {
 
 
 
-@media only screen and (min-width: 1600px) and (max-width: 1800px){
+@media only screen and (min-width: 1600px) and (max-width: 1800px) {
     .login_left121 {
-    top: 0px;
-    padding: 32px 14px;
-    left: 134px;
-    width: 36%;
-}
+        top: 0px;
+        padding: 32px 14px;
+        left: 134px;
+        width: 36%;
+    }
 }
