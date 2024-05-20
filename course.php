@@ -4,223 +4,99 @@
     <h3 class='course_heading'>Our <span style='color:#FFC700;'>Courses</span></h3>
 </div>
 
-<div class="course_div rounded mb-5 d-none d-md-block " style='box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;'>
-    <div class="row ">
-        <div class="col-md-4 col-lg-4 col-12">
-            <div class="course_name">
-                <p>Digital Marketing Mastery</p>
-                <small>Digital Dhairya</small>
+<!--desktop course page -->
+<div class='new_course d-none d-md-block mx-5 my-5 rounded' style='box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;'>
+    <div class='row py-3 px-3'>
+        <div class='col-md-4'>
+            <div class='imgCourse'>
+                <img src="images/1.svg" alt="img" class='w-50 rounded'>
             </div>
-            <div class="pac_star mt-2">
-                <span>4.5</span>
-                <i class="bi bi-star-fill" style='color:#FFC807;'></i>
-                <i class="bi bi-star-fill" style='color:#FFC807;'></i>
-                <i class="bi bi-star-fill" style='color:#FFC807;'></i>
-                <i class="bi bi-star-half" style='color:#FFC807;'></i>
-                <span>(467,65)</span>
-            </div>
-            <p class='hhgbgtjk'>₹4400</p>
-            <a href="#" class='text-primary'>View More</a>
         </div>
-        <div class="col-md-4 col-lg-4 col-12">
-            <div class="card mb-3 border-0" style="max-width: 540px;">
-                <div class="row g-0">
-                    <div class="col-md-2">
-                        <img src="images/Vector.png" class="w-50" alt="img">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="card-body p-0">
-                            <h5 class="card-title htyt">2 Lakh+<br> Students Enrolled</h5>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="card mb-3 border-0" style="max-width: 540px;">
-                <div class="row g-0">
-                    <div class="col-md-2">
-                        <img src="images/Vector.png" class="w-50" alt="img">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="card-body p-0">
-                            <h5 class="card-title htyt">2 Lakh+<br> Students Enrolled</h5>
-
-                        </div>
-                    </div>
+        <div class='col-md-6'>
+            <div class='textCourse'>
+                <h2>Data Science</h2>
+                <p>
+                   Students learn how to collect, analyze, and interpret large sets of data to extract
+                   valuable insights and make data-driven
+                   decisions. The course often involves hands-on
+                   projects to apply learned concepts to real-world problems.
+                </p>
+                 <div class="pac_star mt-2">
+                    <span>4.5</span>
+                    <i class="bi bi-star-fill" style='color:#FFC807;'></i>
+                    <i class="bi bi-star-fill" style='color:#FFC807;'></i>
+                    <i class="bi bi-star-fill" style='color:#FFC807;'></i>
+                    <i class="bi bi-star-half" style='color:#FFC807;'></i>
+                    <span>(467,65)</span>
                 </div>
             </div>
         </div>
-        <div class="col-md-4 col-lg-4 col-12 m-auto d-flex justify-content-center align-items-center text-center">
-            <div class="course_img ">
-                <img src="images/courseimg.jpeg" alt="img" class='w-50'>
-            </div>
+        <div class='col-md-2 d-flex justify-content-end align-items-center'>
+             <a href="#"><img src="images/bjGzP.jpg" alt="img" class='w-50'></a>
         </div>
     </div>
-
 </div>
-<div class="course_div rounded mb-5 d-none d-md-block " style='box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;'>
-    <div class="row ">
-        <div class="col-md-4 col-lg-4 col-12">
-            <div class="course_name">
-                <p>Digital Marketing Mastery</p>
-                <small>Digital Dhairya</small>
+<div class='new_course d-none d-md-block mx-5 my-5 rounded' style='box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;'>
+    <div class='row py-3 px-3'>
+        <div class='col-md-4'>
+            <div class='imgCourse'>
+                <img src="images/2.svg" alt="img" class='w-50 rounded'>
             </div>
-            <div class="pac_star mt-2">
-                <span>4.5</span>
-                <i class="bi bi-star-fill" style='color:#FFC807;'></i>
-                <i class="bi bi-star-fill" style='color:#FFC807;'></i>
-                <i class="bi bi-star-fill" style='color:#FFC807;'></i>
-                <i class="bi bi-star-half" style='color:#FFC807;'></i>
-                <span>(467,65)</span>
-            </div>
-            <p class='hhgbgtjk'>₹4400</p>
-            <a href="#" class='text-primary'>View More</a>
         </div>
-        <div class="col-md-4 col-lg-4 col-12">
-            <div class="card mb-3 border-0" style="max-width: 540px;">
-                <div class="row g-0">
-                    <div class="col-md-2">
-                        <img src="images/Vector.png" class="w-50" alt="img">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="card-body p-0">
-                            <h5 class="card-title htyt">2 Lakh+<br> Students Enrolled</h5>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="card mb-3 border-0" style="max-width: 540px;">
-                <div class="row g-0">
-                    <div class="col-md-2">
-                        <img src="images/Vector.png" class="w-50" alt="img">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="card-body p-0">
-                            <h5 class="card-title htyt">2 Lakh+<br> Students Enrolled</h5>
-
-                        </div>
-                    </div>
+        <div class='col-md-6'>
+            <div class='textCourse'>
+                <h2>Digital marketing</h2>
+                <p>
+                  Participants learn how to create effective digital marketing strategies,
+                  optimize online presence, and leverage various digital channels
+                  to reach and engage with target audiences.
+                </p>
+                 <div class="pac_star mt-2">
+                    <span>4.5</span>
+                    <i class="bi bi-star-fill" style='color:#FFC807;'></i>
+                    <i class="bi bi-star-fill" style='color:#FFC807;'></i>
+                    <i class="bi bi-star-fill" style='color:#FFC807;'></i>
+                    <i class="bi bi-star-half" style='color:#FFC807;'></i>
+                    <span>(467,65)</span>
                 </div>
             </div>
         </div>
-        <div class="col-md-4 col-lg-4 col-12 m-auto d-flex justify-content-center align-items-center text-center">
-            <div class="course_img ">
-                <img src="images/courseimg.jpeg" alt="img" class='w-50'>
-            </div>
+        <div class='col-md-2 d-flex justify-content-end align-items-center'>
+            <a href="#"><img src="images/bjGzP.jpg" alt="img" class='w-50'></a>
+             
         </div>
     </div>
-
 </div>
-<div class="course_div rounded mb-5 d-none d-md-block " style='box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;'>
-    <div class="row ">
-        <div class="col-md-4 col-lg-4 col-12">
-            <div class="course_name">
-                <p>Digital Marketing Mastery</p>
-                <small>Digital Dhairya</small>
+<div class='new_course d-none d-md-block mx-5 my-5 rounded' style='box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;'>
+    <div class='row py-3 px-3'>
+        <div class='col-md-4'>
+            <div class='imgCourse'>
+                <img src="images/3.svg" alt="img" class='w-50 rounded'>
             </div>
-            <div class="pac_star mt-2">
-                <span>4.5</span>
-                <i class="bi bi-star-fill" style='color:#FFC807;'></i>
-                <i class="bi bi-star-fill" style='color:#FFC807;'></i>
-                <i class="bi bi-star-fill" style='color:#FFC807;'></i>
-                <i class="bi bi-star-half" style='color:#FFC807;'></i>
-                <span>(467,65)</span>
-            </div>
-            <p class='hhgbgtjk'>₹4400</p>
-            <a href="#" class='text-primary'>View More</a>
         </div>
-        <div class="col-md-4 col-lg-4 col-12">
-            <div class="card mb-3 border-0" style="max-width: 540px;">
-                <div class="row g-0">
-                    <div class="col-md-2">
-                        <img src="images/Vector.png" class="w-50" alt="img">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="card-body p-0">
-                            <h5 class="card-title htyt">2 Lakh+<br> Students Enrolled</h5>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="card mb-3 border-0" style="max-width: 540px;">
-                <div class="row g-0">
-                    <div class="col-md-2">
-                        <img src="images/Vector.png" class="w-50" alt="img">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="card-body p-0">
-                            <h5 class="card-title htyt">2 Lakh+<br> Students Enrolled</h5>
-
-                        </div>
-                    </div>
+        <div class='col-md-6'>
+            <div class='textCourse'>
+                <h2>Stock Market</h2>
+                <p>
+                  Participants learn how to analyze stocks, understand market trends, and make informed investment decisions. The course often includes real-world case studies,
+                  simulations, and practical exercises to help students apply their knowledge effectively in the stock market.
+                </p>
+                 <div class="pac_star mt-2">
+                    <span>4.5</span>
+                    <i class="bi bi-star-fill" style='color:#FFC807;'></i>
+                    <i class="bi bi-star-fill" style='color:#FFC807;'></i>
+                    <i class="bi bi-star-fill" style='color:#FFC807;'></i>
+                    <i class="bi bi-star-half" style='color:#FFC807;'></i>
+                    <span>(467,65)</span>
                 </div>
             </div>
         </div>
-        <div class="col-md-4 col-lg-4 col-12 m-auto d-flex justify-content-center align-items-center text-center">
-            <div class="course_img ">
-                <img src="images/courseimg.jpeg" alt="img" class='w-50'>
-            </div>
+        <div class='col-md-2 d-flex justify-content-end align-items-center'>
+            <a href="#"> <img src="images/bjGzP.jpg" alt="img" class='w-50'></a>
+            
         </div>
     </div>
-
 </div>
-<div class="course_div rounded mb-5 d-none d-md-block " style='box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;'>
-    <div class="row ">
-        <div class="col-md-4 col-lg-4 col-12">
-            <div class="course_name">
-                <p>Digital Marketing Mastery</p>
-                <small>Digital Dhairya</small>
-            </div>
-            <div class="pac_star mt-2">
-                <span>4.5</span>
-                <i class="bi bi-star-fill" style='color:#FFC807;'></i>
-                <i class="bi bi-star-fill" style='color:#FFC807;'></i>
-                <i class="bi bi-star-fill" style='color:#FFC807;'></i>
-                <i class="bi bi-star-half" style='color:#FFC807;'></i>
-                <span>(467,65)</span>
-            </div>
-            <p class='hhgbgtjk'>₹4400</p>
-            <a href="#" class='text-primary'>View More</a>
-        </div>
-        <div class="col-md-4 col-lg-4 col-12">
-            <div class="card mb-3 border-0" style="max-width: 540px;">
-                <div class="row g-0">
-                    <div class="col-md-2">
-                        <img src="images/Vector.png" class="w-50" alt="img">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="card-body p-0">
-                            <h5 class="card-title htyt">2 Lakh+<br> Students Enrolled</h5>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="card mb-3 border-0" style="max-width: 540px;">
-                <div class="row g-0">
-                    <div class="col-md-2">
-                        <img src="images/Vector.png" class="w-50" alt="img">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="card-body p-0">
-                            <h5 class="card-title htyt">2 Lakh+<br> Students Enrolled</h5>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4 col-lg-4 col-12 m-auto d-flex justify-content-center align-items-center text-center">
-            <div class="course_img ">
-                <img src="images/courseimg.jpeg" alt="img" class='w-50'>
-            </div>
-        </div>
-    </div>
-
-</div>
-
 <!-- mobile vieww course card  -->
 <div class="container-fluid">
     <div class="mobile_course d-block d-md-none p-3 rounded" style='box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;'>
